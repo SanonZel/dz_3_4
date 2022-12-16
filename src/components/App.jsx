@@ -1,8 +1,8 @@
-import '../components/App.jsx'
+import App from '../components/App.jsx'
 import Products from '../goods/Products.jsx'
-import '../menu/Menu.jsx'
+import Menu from '../menu/Menu.jsx'
 import '../menu.css'
-import '../input/Input.jsx'
+import Input from '../input/Input.jsx'
 import '../input.css'
 
 
